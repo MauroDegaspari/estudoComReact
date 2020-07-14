@@ -1,0 +1,27 @@
+
+.corpo{
+    background: rgb(83, 105, 51);
+    border: rgb(93, 114, 61) 3px solid;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    min-width: 300px;
+    max-width: 300px;
+    
+}
+
+.corpo .tit{
+    color: lightseagreen;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.cont{
+flex: 1;
+background: honeydew;
+color: black;
+padding: 15px;
+}
